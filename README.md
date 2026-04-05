@@ -117,7 +117,7 @@ Buyers struggle to find fresh, affordable produce locally.
 
 ## 💻 Run Locally
 
-git clone https://github.com/your-username/kisanconnect-web-app.git
+git clone https://github.com/Arijitsen-ece/kisanconnect-web-app.git
 cd kisanconnect-web-app
 npm install
 npm run dev
@@ -141,12 +141,12 @@ Feel free to fork and improve!
 📬 Contact
 
 👤 Arijit Sen
+
 🔗 LinkedIn: https://www.linkedin.com/in/arijit-sen-188864228
 
 💻 GitHub: https://github.com/Arijitsen-ece
 
 ⭐ Support
-
 If you like this project:
 
 👉 Give it a ⭐ on GitHub
